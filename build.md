@@ -1,5 +1,5 @@
 Music: 7.29.52  
-Music-Extended: 7.25.52  
+Music-Extended: 7.25.53  
 YouTube: 19.47.53  
 YouTube-Extended: 19.44.39  
 
@@ -13,5 +13,5 @@ Patches: inotia00/patches-5.1.3.rvp
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.1.3)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.7.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.7.0)  
+Patches: ReVanced/patches-5.7.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.7.1)  
