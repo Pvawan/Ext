@@ -60,7 +60,7 @@ arch = "both"
 excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 included-patches = "'Theme' 'MaterialYou' 'Force hide player buttons background'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android/download"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [GooglePhotos]
